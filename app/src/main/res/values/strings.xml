@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unit1Pathway3Kartvizit</string>
+
+    <string name="full_name">Umutcan Sahin</string>
+    <string name="title">Android Developer</string>
+    <string name="phone_number">+9012233444</string>
+    <string name="social_media">instagram.com/umutcansahin</string>
+    <string name="email">umutcan199726@gmail.com</string>
+</resources>
